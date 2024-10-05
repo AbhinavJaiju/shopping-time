@@ -51,10 +51,12 @@ const Product = ({
 
   useEffect(() => {
     handleProductHasNoAttributes();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
     handleProductHasNoAttributes();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
