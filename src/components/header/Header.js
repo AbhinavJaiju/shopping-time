@@ -60,7 +60,7 @@ const Navigation = ({ allCategories,
             closeMenu();
           }}
           className="header-one">
-          <h1>Shopping Time</h1>
+          <h1>Dress Shop</h1>
         </NavLink>
         <CategoryMenu
           allCategories={allCategories}
